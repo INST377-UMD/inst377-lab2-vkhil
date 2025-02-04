@@ -1,0 +1,27 @@
+/* General page styling */
+body {
+    background-color: #96190c;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Centered heading */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+/* Thank You image styling */
+.thank-you-img {
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+}
+
+/* Thank You container styling */
+.thank-you-container {
+    padding: 20px;
+    text-align: center;
+}
